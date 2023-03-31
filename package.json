@@ -1,0 +1,23 @@
+{
+  "name": "homepage-cats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gamequic/HomePage-Cats.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gamequic/HomePage-Cats/issues"
+  },
+  "homepage": "https://github.com/Gamequic/HomePage-Cats#readme",
+  "dependencies": {
+    "i": "^0.3.7"
+  }
+}
