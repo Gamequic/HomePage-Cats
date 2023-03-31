@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d src/"
+    "deploy": "gh-pages -d src"
   },
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/Gamequic/HomePage-Cats/issues"
   },
-  "homepage": "https://github.com/Gamequic/HomePage-Cats#readme",
+  "homepage": "git@github.com:Gamequic/HomePage-Cats.git",
   "dependencies": {
     "i": "^0.3.7"
   },
